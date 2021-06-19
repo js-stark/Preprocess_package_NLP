@@ -17,9 +17,13 @@ which can be called and used in multiple projects.
 `pip uninstall Preprocess_package_NLP` 
 
 #### How to use:
+
 `Example:`
+
 `import preprocess_js`
+
 `x= "Ram and seetha aren't that good in mathematics."`
+
 `preprocess_js.cont_exp(x)`
 
 `output:'Ram and seetha are not that good in mathematics.'`
